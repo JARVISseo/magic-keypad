@@ -1,0 +1,22 @@
+{
+  "name": "마술 키패드",
+  "short_name": "키패드",
+  "description": "iPhone 스타일 마술 키패드",
+  "start_url": "/magic-keypad/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/333333/ffffff?text=🎩",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/333333/ffffff?text=🎩",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
